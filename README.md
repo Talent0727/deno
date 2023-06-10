@@ -46,7 +46,6 @@ brew install deno
 ```
 
 [Chocolatey](https://chocolatey.org/packages/deno) (Windows):
-
 ```powershell
 choco install deno
 ```
